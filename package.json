@@ -1,0 +1,22 @@
+{
+  "name": "react_webpack_boilerplate",
+  "version": "1.0.0",
+  "description": "boilerplate made with love",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonpeche/webpack_react_boilerplate.git"
+  },
+  "author": "Gonzalo Espeche",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonpeche/webpack_react_boilerplate/issues"
+  },
+  "homepage": "https://github.com/gonpeche/webpack_react_boilerplate#readme",
+  "devDependencies": {
+    "webpack": "^4.28.3"
+  }
+}
