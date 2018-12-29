@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 const App = () => {
   return (
     <div>
-      <p>React here!</p>
+      <p>Boilerplate ready!</p>
     </div>
   );
 };
